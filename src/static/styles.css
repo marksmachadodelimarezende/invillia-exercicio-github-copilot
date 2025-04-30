@@ -136,22 +136,6 @@ button:hover {
   display: none;
 }
 
-.participant {
-  display: inline-block;
-  margin: 5px 5px 0 0;
-  padding: 5px 10px;
-  background-color: #e3f2fd;
-  color: #0d47a1;
-  border: 1px solid #90caf9;
-  border-radius: 15px;
-  font-size: 14px;
-}
-
-.no-participants {
-  color: #757575;
-  font-style: italic;
-}
-
 footer {
   text-align: center;
   margin-top: 30px;
